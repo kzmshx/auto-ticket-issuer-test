@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kzmshx/auto-ticket-issuer-test#readme",
   "dependencies": {
-    "ajv": "^6.12.2"
+    "ajv": "^6.12.2",
+    "url-parse": "^1.5.0"
   }
 }
