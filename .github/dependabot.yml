@@ -9,3 +9,5 @@ updates:
       labels:
         - dependencies
       versioning-strategy: auto
+      pull-request-branch-name:
+        separator: "-"
